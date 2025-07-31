@@ -12,3 +12,7 @@ export default function handler(req, res) {
         timestamp: Date.now()
     });
 }
+// Force redeploy with new token - 2025-07-31 20:36
+export default function handler(req, res) {
+    // 既存のコード...
+}
